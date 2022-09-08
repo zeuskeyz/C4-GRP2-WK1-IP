@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+
+}
+
+
+.container {
+    padding: 2px;
+    margin: 5px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.item {
+    margin: 20px;
+    align-self: center;
+    flex: 1;
+
+}
+
+.linkcontainer {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.list {
+    font-weight: bold;
+    font-size: medium;
+    margin: 15px;
+}
+
+.navs a {
+    text-decoration: none;
+    color: orange;
+    font-family: 'Cinzel', serif;
+}
+
+#talkus {
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    border: 2px solid orange;
+    border-radius: 25px;
+    color: black;
+    font-family: 'Cinzel', serif;
+    font-size: medium;
+    font-weight: bold;
+    margin: auto;
+    margin-right: 80px;
+}
+
+#talkus:hover {
+    background-color: rgba(1, 1, 1, 0);
+    color: orange;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#profilepic {
+    width: 67px;
+    margin: 20px;
+    border-radius: 10px;
+    color: orange;
+    font-family: 'Cinzel', serif;
+
+}
+
+#profilepic img {
+    width: 100%;
+}
+
+
