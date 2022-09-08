@@ -37,11 +37,6 @@ body {
     justify-content: center;
 }
 
-.myname {
-    margin: 2px;
-    color: orange;
-
-}
 
 .list {
     font-weight: bold;
@@ -96,7 +91,7 @@ body {
 }
 
 #explanations {
-    margin-bottom: 150px;
+    margin-bottom: 130px;
 }
 
 #mypic {
@@ -115,7 +110,7 @@ body {
     font-family: 'Kaushan Script', cursive;
 }
 
-#myhype h4 {
+#myhype h3 {
     font-family: 'Cinzel', serif;
 
 }
@@ -135,7 +130,7 @@ body {
     justify-content: flex-end;
 }
 
-.socials a {
+.socials a, .hypetags {
     text-decoration: none;
     color: orange;
     font-family: 'Kaushan Script', cursive;
