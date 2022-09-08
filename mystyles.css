@@ -42,13 +42,14 @@ body {
     color: orange;
 
 }
-
-.navs a {
-    text-decoration: none;
-    color: orange;
+.list{
     font-weight: bold;
     font-size: medium;
     margin: 15px;
+}
+.navs a, .socials a{
+    text-decoration: none;
+    color: orange;
     font-family: 'Cinzel', serif;
 }
 
@@ -123,6 +124,8 @@ body {
 
 .concall {
     display: inline;
+    font-family:'Kaushan Script', cursive;
+
 }
 
 .social {
@@ -131,12 +134,3 @@ body {
     justify-content: flex-end;
 }
 
-#hire {
-    width: 150px;
-    height: 50px;
-    background-color: rgba(1, 1, 1, 0);
-    border: 2px solid orange;
-    border-radius: 25px;
-    color: orange;
-    font-size: medium;
-}
