@@ -1,0 +1,130 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+
+}
+
+
+.container {
+    padding: 2px;
+    margin: 5px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.item {
+    margin: 20px;
+    align-self: center;
+    flex: 1;
+
+}
+
+.linkcontainer {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.myname {
+    margin: 2px;
+    color: orange;
+
+}
+
+.list a {
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+    font-size: medium;
+    margin: 15px;
+}
+
+#talkus {
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    border: 2px solid orange;
+    border-radius: 25px;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    margin: auto;
+    margin-right: 80px;
+}
+
+#talkus:hover {
+    background-color: rgba(1, 1, 1, 0);
+    color: orange;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#profilepic {
+    width: 67px;
+    margin: 20px;
+    border-radius: 10px;
+    color: orange;
+
+}
+
+#profilepic img {
+    width: 100%;
+}
+
+#myhype {
+    color: orange;
+    margin: 20px;
+    align-self: flex-end;
+}
+
+#explanations {
+    margin-bottom: 150px;
+}
+
+#mypic {
+    width: 797px;
+    margin: 30px;
+}
+
+#myhype h1,
+#myhype h4 {
+    margin: 15px;
+    margin-left: auto;
+
+}
+
+#mypic img {
+    width: 100%;
+}
+
+.concall {
+    display: inline;
+}
+
+.social {
+    margin-left: auto;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#hire {
+    width: 150px;
+    height: 50px;
+    background-color: rgba(1, 1, 1, 0);
+    border: 2px solid orange;
+    border-radius: 25px;
+    color: orange;
+    font-size: medium;
+}
