@@ -42,12 +42,14 @@ body {
     color: orange;
 
 }
-.list{
+
+.list {
     font-weight: bold;
     font-size: medium;
     margin: 15px;
 }
-.navs a, .socials a{
+
+.navs a {
     text-decoration: none;
     color: orange;
     font-family: 'Cinzel', serif;
@@ -122,10 +124,9 @@ body {
     width: 100%;
 }
 
-.concall {
-    display: inline;
-    font-family:'Kaushan Script', cursive;
 
+#concall {
+    display: inline;
 }
 
 .social {
@@ -134,3 +135,8 @@ body {
     justify-content: flex-end;
 }
 
+.socials a {
+    text-decoration: none;
+    color: orange;
+    font-family: 'Kaushan Script', cursive;
+}
