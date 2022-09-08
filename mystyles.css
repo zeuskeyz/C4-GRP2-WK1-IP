@@ -109,11 +109,12 @@ body {
 
 }
 
-#myhype h1  {
+#myhype h1 {
     font-family: 'Kaushan Script', cursive;
 }
 
-#myhype h4,#myhype h3 {
+#myhype h4,
+#myhype h3 {
     font-family: 'Cardo', serif;
 }
 
