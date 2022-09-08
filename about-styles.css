@@ -151,6 +151,8 @@ body {
     padding-top: 0px;
 }
 .unordered-list li a{
+    text-decoration: none;
     color: orange;
     font-family: 'Cardo', serif;
+    font-size: largeR;
 }
