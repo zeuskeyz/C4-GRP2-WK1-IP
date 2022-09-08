@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: black;
+    background-image: url(images/homeback.webp);
+    background-size: cover;
+    background-repeat:no-repeat;
 
 }
 
