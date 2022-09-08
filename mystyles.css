@@ -91,9 +91,9 @@ body {
 }
 
 #explanations {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cardo', serif;
     font-weight: lighter;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 
 }
 
@@ -109,14 +109,14 @@ body {
 
 }
 
-#myhype h1 {
+#myhype h1  {
     font-family: 'Kaushan Script', cursive;
 }
 
-#myhype h3 {
-    font-family: 'Cinzel', serif;
-
+#myhype h4,#myhype h3 {
+    font-family: 'Cardo', serif;
 }
+
 
 #mypic img {
     width: 100%;
