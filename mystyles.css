@@ -141,5 +141,5 @@ body {
 
 .hypetags:hover {
     text-decoration: underline;
-    font-size: larger;
+    color: darkorange;
 }
