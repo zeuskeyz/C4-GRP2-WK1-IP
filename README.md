@@ -1,6 +1,6 @@
 # MORE ABOUT CODEMAN
 #### Codeman is an attempt to explain more of about who I am what I do ad why I do what do and how people can connect with me, Friday,September 9,2022
-#### By **Silas Hezron Odack **
+#### By **Silas Hazrun Odack **
 ## Description
 This is a simple website in which I tell the world more about my current self. I am an aspiring web developer and this is just my first attempt at the web using CSS and HTML.
 ## Setup/Installation Requirements
