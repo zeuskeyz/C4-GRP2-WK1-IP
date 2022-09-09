@@ -1,16 +1,30 @@
-# MORE ABOUT CODEMAN
-#### Codeman is an attempt to explain more of about who I am what I do ad why I do what do and how people can connect with me, Friday,September 9,2022
-#### By **Silas Hezron Odack **
-## Description
-This is a simple website in which I tell the world more about my current self. I am an aspiring web developer and this is just my first attempt at the web using CSS and HTML.
-## Setup/Installation Requirements
-You only need to have an modern browser(Chrome is adviced) and an intergrated Editor.
-## Known Bugs
-Using older versions of browsers might actually cause the website to look awkward.
-## Technologies Used
-HTML and CSS only
-## Support and contact details
+# Project Name
+SHEZRON-Portfolio Landing Page
+
+## Author Name
+Authored by: Silas Hazrun Odack on Friday,September 9,2022.
+
+### Description of Project.
+This Project aimed to build a simple portfolio landing page...with emphasis on the author, his contacts, his projects and his hobbies.
+
+### Setup/Installation Requirements
+-Git Clone https://github.com/zeuskeyz/portfolio-landingpage.git
+-Open the cloned code on any intergrated code editor e.g VS Code.
+-Run with Live server or open in a browser e.g Google Chrome
+
+### Known Bugs
+-Using older versions of browsers might actually cause the website to look awkward.
+
+### Technologies Used
+-HTML
+-CSS
+-GIT & GITHUB
+
+### Live Link
+https://zeuskeyz.github.io/portfolio-landingpage/
+
+### Support and contact details
 Feel free to contact me anytime on zeuskeyz@gmail.com
+
 ### License
-*The Licence used is GPL*
-Copyright (c) 2022 **Silas Hezron Odack, ZEUSCODEZ PLC.**
+Copyright (c) 2022, **Silas Hazrun Odack**
