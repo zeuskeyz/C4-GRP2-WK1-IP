@@ -139,3 +139,6 @@ body {
     color: orange;
     font-family: 'Kaushan Script', cursive;
 }
+.ordered-list li {
+    margin-left: 50px;
+}
