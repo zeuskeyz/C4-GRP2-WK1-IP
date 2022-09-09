@@ -140,5 +140,7 @@ body {
     font-family: 'Kaushan Script', cursive;
 }
 .ordered-list li {
+    color: rgb(163, 144, 6);
+    padding: 5px;
     margin-left: 50px;
 }
