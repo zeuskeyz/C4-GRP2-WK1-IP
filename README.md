@@ -11,6 +11,7 @@ This Project aimed to build a simple portfolio landing page...with emphasis on t
 -Git Clone https://github.com/zeuskeyz/portfolio-landingpage.git
 
 -Open the cloned code on any intergrated code editor e.g VS Code.
+
 -Run with Live server or open in a browser e.g Google Chrome.
 
 ### Known Bugs
